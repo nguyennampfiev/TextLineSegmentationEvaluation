@@ -1,0 +1,6 @@
+numpy
+opencv-python
+glob2
+shapely
+astor
+jsonlib-python3
